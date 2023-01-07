@@ -174,12 +174,12 @@
     bottom: 0;
     max-width: 694px;
     box-shadow: -2px 3px 17px 0 #000;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.7s ease-in-out;
     width: 100%;
     background-color: #fff;
     padding-top: 40px;
     &.rightside-menu--close {
-        transform: translateX(500%);
+        transform: translateX(120%);
     }
     &__close {
         background-color: transparent;
